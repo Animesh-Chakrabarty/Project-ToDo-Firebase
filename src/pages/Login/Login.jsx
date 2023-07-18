@@ -17,7 +17,7 @@ const Login = () => {
   return (
     <div className="login">
       <div className="container">
-        <p className="signIn">Sign In</p>
+        <p className="signIn">ToDoGo</p>
         <form onSubmit={signIn}>
           <input
             type="email"

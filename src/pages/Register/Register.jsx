@@ -44,7 +44,7 @@ const Register = () => {
   return (
     <div className="register">
       <div className="container">
-        <p className="signUp">Sign Up</p>
+        <p className="signUp">ToDoGo</p>
         <form onSubmit={createUser}>
           <input
             type="text"
